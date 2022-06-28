@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-floodadosious34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-flood-jr/)](https://www.linkedin.com/in/james-flood-jr/) [![Gmail Badge](https://img.shields.io/badge/-floodadosious111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:floodadosious111@gmail.com)](mailto:floodadosious111@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floodadosious34" alt="floodadosious34" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">Let's Build the Future! </div>
 
 ## :computer: Technologies I Love
 * Abelton
